@@ -1,0 +1,27 @@
+{
+  "name": "website-starter-template",
+  "version": "0.0.1",
+  "description": "A starter template build with codekit and supporting SASS to quick jump into development of simple websites.",
+  "main": "index.html",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MIkejolz/website-starter-template.git"
+  },
+  "keywords": [
+    "sass",
+    "codekit",
+    "template"
+  ],
+  "author": "Mikejolz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MIkejolz/website-starter-template/issues"
+  },
+  "homepage": "https://github.com/MIkejolz/website-starter-template#readme"
+}
